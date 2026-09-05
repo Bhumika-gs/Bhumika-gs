@@ -27,6 +27,10 @@ A machine learning project that predicts whether a loan application is likely to
 
 Random Forest Classifier was used to predict loan approval.
 
+## Dataset 
+Download dataset from Kaggle
+https://www.kaggle.com/datasets/ninzaami/loan-predication?resource=download
+
 ## How to Run
 
 Install the required libraries:
