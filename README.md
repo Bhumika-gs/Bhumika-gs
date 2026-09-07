@@ -55,7 +55,6 @@ The model is evaluated using:
 
 ## 📁 Project Structure
 
-```text
 Loan-Approval-Prediction/
 │
 ├── data/
@@ -70,7 +69,9 @@ Loan-Approval-Prediction/
 ├── README.md
 └── .gitignore
 
-##🚀 How to Run
+
+**🚀 How to Run**
+
 Install the required libraries
 pip install -r requirements.txt
 Run the Streamlit application
@@ -78,7 +79,8 @@ python -m streamlit run app.py
 
 The application will open in your browser.
 
-##💡 Key Learning Outcomes
+**##💡 Key Learning Outcomes**
+
 Data cleaning and preprocessing
 Exploratory Data Analysis
 Handling missing values
@@ -89,13 +91,15 @@ Feature importance
 Model saving using Joblib
 Building a Streamlit ML application
 
-##🔮 Future Improvements
+**🔮 Future Improvements**
+
 Compare multiple classification algorithms
 Perform hyperparameter tuning
 Improve model performance
 Add interactive visualizations
 Deploy the application online
 
-##👩‍💻 Author
+
+**👩‍💻 Author**
 
 Bhumika G S
